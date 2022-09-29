@@ -1,5 +1,8 @@
 # Replit's 100 Days of Code - The Complete Python Course - Log
 
+### Day 0: 25/09/2022
+Prepare the course.
+
 ### Day 1: 26/09/2022
 Hello World!
 
@@ -8,3 +11,6 @@ Input and Variables.
 
 ### Day 3: 28/09/2022
 Concat...what?
+
+### Day 4: 29/09/2022
+'Print' in Color!

@@ -17,3 +17,6 @@ Concat...what?
 
 ### Day 5: 30/09/2022
 If this...else that?!
+
+### Day 6: 01/10/2022
+What the elif is this?

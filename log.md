@@ -20,3 +20,6 @@ If this...else that?!
 
 ### Day 6: 01/10/2022
 What the elif is this?
+
+### Day 7: 02/10/2022
+Nesting ~~Dolls~~ Code

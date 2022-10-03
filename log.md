@@ -23,3 +23,6 @@ What the elif is this?
 
 ### Day 7: 02/10/2022
 Nesting ~~Dolls~~ Code
+
+### Day 8: 03/10/2022
+Affirmation Generator

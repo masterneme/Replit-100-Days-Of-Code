@@ -26,3 +26,6 @@ Nesting ~~Dolls~~ Code
 
 ### Day 8: 03/10/2022
 Affirmation Generator
+
+### Day 9: 04/10/2022
+Casting Spells on Your Code

@@ -29,3 +29,6 @@ Affirmation Generator
 
 ### Day 9: 04/10/2022
 Casting Spells on Your Code
+
+### Day 10: 05/10/2022
+Show Me the $$

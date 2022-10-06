@@ -32,3 +32,6 @@ Casting Spells on Your Code
 
 ### Day 10: 05/10/2022
 Show Me the $$
+
+### Day 11: 06/10/2022
+"525,600 minutes"

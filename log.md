@@ -35,3 +35,6 @@ Show Me the $$
 
 ### Day 11: 06/10/2022
 "525,600 minutes"
+
+### Day 12: 07/10/2022
+Find All the Bugs!

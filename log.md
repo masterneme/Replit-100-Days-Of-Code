@@ -41,3 +41,6 @@ Find All the Bugs!
 
 ### Day 13: 08/10/2022
 Gradebook Builder.
+
+### Day 14: 09/10/2022
+Rock, Paper, Scissors.

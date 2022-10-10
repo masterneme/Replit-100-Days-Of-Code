@@ -44,3 +44,6 @@ Gradebook Builder.
 
 ### Day 14: 09/10/2022
 Rock, Paper, Scissors.
+
+### Day 15: 10/10/2022
+All About the Loop.

@@ -47,3 +47,6 @@ Rock, Paper, Scissors.
 
 ### Day 15: 10/10/2022
 All About the Loop.
+
+### Day 16: 11/10/2022
+Make it Stop!

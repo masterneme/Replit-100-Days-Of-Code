@@ -50,3 +50,6 @@ All About the Loop.
 
 ### Day 16: 11/10/2022
 Make it Stop!
+
+### Day 17: 12/10/2022
+Let's ~~Cheat~~ Continue.

@@ -56,3 +56,6 @@ Let's ~~Cheat~~ Continue.
 
 ### Day 18: 13/10/2022
 Guess the Number.
+
+### Day 19: 14/10/2022
+Let's Be a Bit Lazy!

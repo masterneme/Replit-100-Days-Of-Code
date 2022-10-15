@@ -59,3 +59,6 @@ Guess the Number.
 
 ### Day 19: 14/10/2022
 Let's Be a Bit Lazy!
+
+### Day 20: 15/10/2022
+What Can Range really do?

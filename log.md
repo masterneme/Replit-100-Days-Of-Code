@@ -62,3 +62,6 @@ Let's Be a Bit Lazy!
 
 ### Day 20: 15/10/2022
 What Can Range really do?
+
+### Day 21: 16/10/2022
+Throwback to Math Facts.

@@ -65,3 +65,6 @@ What Can Range really do?
 
 ### Day 21: 16/10/2022
 Throwback to Math Facts.
+
+### Day 22: 17/10/2022
+Use other people's code.

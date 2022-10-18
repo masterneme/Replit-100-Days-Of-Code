@@ -68,3 +68,6 @@ Throwback to Math Facts.
 
 ### Day 22: 17/10/2022
 Use other people's code.
+
+### Day 23: 18/10/2022
+Subroutines: The Recipe for Coding.

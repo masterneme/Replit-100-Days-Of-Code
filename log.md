@@ -71,3 +71,6 @@ Use other people's code.
 
 ### Day 23: 18/10/2022
 Subroutines: The Recipe for Coding.
+
+### Day 24: 19/10/2022
+Roll in the Parameters.

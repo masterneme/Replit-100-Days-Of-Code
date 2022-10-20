@@ -74,3 +74,6 @@ Subroutines: The Recipe for Coding.
 
 ### Day 24: 19/10/2022
 Roll in the Parameters.
+
+### Day 25: 20/10/2022
+Send it Back.

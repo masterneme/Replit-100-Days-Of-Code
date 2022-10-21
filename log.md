@@ -77,3 +77,6 @@ Roll in the Parameters.
 
 ### Day 25: 20/10/2022
 Send it Back.
+
+### Day 26: 21/10/2022
+The Power of Libraries in Games.

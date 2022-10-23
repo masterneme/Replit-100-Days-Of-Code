@@ -83,3 +83,6 @@ The Power of Libraries in Games.
 
 ### Day 27: 22/10/2022
 Video Game Characters.
+
+### Day 28: 23/10/2022
+Epic Character Battle.

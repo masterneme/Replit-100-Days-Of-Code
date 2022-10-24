@@ -86,3 +86,6 @@ Video Game Characters.
 
 ### Day 28: 23/10/2022
 Epic Character Battle.
+
+### Day 29: 24/10/2022
+The Secrets of print.

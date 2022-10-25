@@ -89,3 +89,6 @@ Epic Character Battle.
 
 ### Day 29: 24/10/2022
 The Secrets of print.
+
+### Day 30: 25/10/2022
+f...what?

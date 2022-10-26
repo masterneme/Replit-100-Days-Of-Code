@@ -92,3 +92,6 @@ The Secrets of print.
 
 ### Day 30: 25/10/2022
 f...what?
+
+### Day 31: 26/10/2022
+Create a User Interface.

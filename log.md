@@ -95,3 +95,6 @@ f...what?
 
 ### Day 31: 26/10/2022
 Create a User Interface.
+
+### Day 32: 27/10/2022
+Make a List.

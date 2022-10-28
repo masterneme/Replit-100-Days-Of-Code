@@ -98,3 +98,6 @@ Create a User Interface.
 
 ### Day 32: 27/10/2022
 Make a List.
+
+### Day 33: 28/10/2022
+Getting Dynamic.

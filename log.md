@@ -101,3 +101,6 @@ Make a List.
 
 ### Day 33: 28/10/2022
 Getting Dynamic.
+
+### Day 34: 29/10/2022
+Pretty Printing.

@@ -104,3 +104,6 @@ Getting Dynamic.
 
 ### Day 34: 29/10/2022
 Pretty Printing.
+
+### Day 35: 30/10/2022
+The ULTIMATE List Maker.

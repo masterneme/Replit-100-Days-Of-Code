@@ -110,3 +110,6 @@ The ULTIMATE List Maker.
 
 ### Day 36: 31/10/2022
 That's Not My Name...
+
+### Day 37: 01/11/2022
+Slice it Up!

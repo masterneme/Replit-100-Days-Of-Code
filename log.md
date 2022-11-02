@@ -113,3 +113,6 @@ That's Not My Name...
 
 ### Day 37: 01/11/2022
 Slice it Up!
+
+### Day 38: 02/11/2022
+Code the Rainbow.

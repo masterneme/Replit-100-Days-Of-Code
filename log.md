@@ -116,3 +116,6 @@ Slice it Up!
 
 ### Day 38: 02/11/2022
 Code the Rainbow.
+
+### Day 39: 03/11/2022
+Hangman.

@@ -119,3 +119,6 @@ Code the Rainbow.
 
 ### Day 39: 03/11/2022
 Hangman.
+
+### Day 40: 04/11/2022
+Dictionaries.

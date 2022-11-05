@@ -122,3 +122,6 @@ Hangman.
 
 ### Day 40: 04/11/2022
 Dictionaries.
+
+### Day 41: 05/11/2022
+I've Lost My Keys.

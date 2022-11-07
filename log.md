@@ -128,3 +128,6 @@ I've Lost My Keys.
 
 ### Day 42: 06/11/2022
 MokeBeast.
+
+### Day 43: 07/11/2022
+Taking Lists to a New Dimension.

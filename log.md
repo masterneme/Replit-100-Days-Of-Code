@@ -131,3 +131,6 @@ MokeBeast.
 
 ### Day 43: 07/11/2022
 Taking Lists to a New Dimension.
+
+### Day 44: 08/11/2022
+Dynamic 2D Lists.

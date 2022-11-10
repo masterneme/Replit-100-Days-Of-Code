@@ -137,3 +137,6 @@ Dynamic 2D Lists.
 
 ### Day 45: 09/11/2022
 Get it 'to done'!
+
+### Day 46: 10/11/2022
+Dictionaries are Back...

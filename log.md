@@ -140,3 +140,6 @@ Get it 'to done'!
 
 ### Day 46: 10/11/2022
 Dictionaries are Back...
+
+### Day 47: 11/11/2022
+Top Trumps.

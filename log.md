@@ -143,3 +143,6 @@ Dictionaries are Back...
 
 ### Day 47: 11/11/2022
 Top Trumps.
+
+### Day 48: 12/11/2022
+Saving to Files.

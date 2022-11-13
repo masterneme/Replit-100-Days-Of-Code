@@ -146,3 +146,6 @@ Top Trumps.
 
 ### Day 48: 12/11/2022
 Saving to Files.
+
+### Day 49: 13/11/2022
+Reading a File.

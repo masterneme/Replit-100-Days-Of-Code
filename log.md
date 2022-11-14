@@ -149,3 +149,6 @@ Saving to Files.
 
 ### Day 49: 13/11/2022
 Reading a File.
+
+### Day 50: 14/11/2022
+Idea Storage.

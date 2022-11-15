@@ -152,3 +152,6 @@ Reading a File.
 
 ### Day 50: 14/11/2022
 Idea Storage.
+
+### Day 51: 15/11/2022
+You Save Your Data in...You Load Your Data Out...

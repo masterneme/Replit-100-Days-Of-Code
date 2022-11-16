@@ -155,3 +155,6 @@ Idea Storage.
 
 ### Day 51: 15/11/2022
 You Save Your Data in...You Load Your Data Out...
+
+### Day 52: 16/11/2022
+Brace for Impact.

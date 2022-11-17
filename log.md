@@ -158,3 +158,6 @@ You Save Your Data in...You Load Your Data Out...
 
 ### Day 52: 16/11/2022
 Brace for Impact.
+
+### Day 53: 17/11/2022
+Video Game Inventory.

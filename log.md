@@ -161,3 +161,6 @@ Brace for Impact.
 
 ### Day 53: 17/11/2022
 Video Game Inventory.
+
+### Day 54: 18/11/2022
+Comma', 'Separated'...What?!

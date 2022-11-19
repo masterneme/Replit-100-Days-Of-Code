@@ -164,3 +164,6 @@ Video Game Inventory.
 
 ### Day 54: 18/11/2022
 Comma', 'Separated'...What?!
+
+### Day 55: 19/11/2022
+Back the 'f' up?!

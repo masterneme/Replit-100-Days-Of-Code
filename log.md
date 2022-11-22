@@ -173,3 +173,6 @@ Music Streaming Service.
 
 ### Day 57: 21/11/2022
 Recursion.
+
+### Day 58: 22/11/2022
+Debugger 🐞

@@ -176,3 +176,6 @@ Recursion.
 
 ### Day 58: 22/11/2022
 Debugger 🐞
+
+### Day 59: 23/11/2022
+Palindrome.

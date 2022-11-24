@@ -179,3 +179,6 @@ Debugger 🐞
 
 ### Day 59: 23/11/2022
 Palindrome.
+
+### Day 60: 24/11/2022
+The Magic of Time.

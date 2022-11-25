@@ -182,3 +182,6 @@ Palindrome.
 
 ### Day 60: 24/11/2022
 The Magic of Time.
+
+### Day 61: 25/11/2022
+Replit DB.

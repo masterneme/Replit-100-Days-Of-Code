@@ -188,3 +188,6 @@ Replit DB.
 
 ### Day 62: 26/11/2022
 Secret Keeper.
+
+### Day 63: 27/11/2022
+We Can Split That.

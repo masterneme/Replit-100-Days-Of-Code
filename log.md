@@ -194,3 +194,6 @@ We Can Split That.
 
 ### Day 64: 28/11/2022
 Oops...
+
+### Day 65: 29/11/2022
+Character Creation.

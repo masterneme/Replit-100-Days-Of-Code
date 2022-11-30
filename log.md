@@ -197,3 +197,6 @@ Oops...
 
 ### Day 65: 29/11/2022
 Character Creation.
+
+### Day 66: 30/11/2022
+This is getting GUI.

@@ -200,3 +200,6 @@ Character Creation.
 
 ### Day 66: 30/11/2022
 This is getting GUI.
+
+### Day 67: 01/12/2022
+Guess Who.

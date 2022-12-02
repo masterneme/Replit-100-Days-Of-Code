@@ -203,3 +203,6 @@ This is getting GUI.
 
 ### Day 67: 01/12/2022
 Guess Who.
+
+### Day 68: 02/12/2022
+Hide & Remove.

@@ -206,3 +206,6 @@ Guess Who.
 
 ### Day 68: 02/12/2022
 Hide & Remove.
+
+### Day 69: 03/12/2022
+Graphic Novel.

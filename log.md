@@ -212,3 +212,6 @@ Graphic Novel.
 
 ### Day 70: 04/12/2022
 For Your Eyes Only.
+
+### Day 71: 05/12/2022
+Pass the Salt.

@@ -218,3 +218,6 @@ Pass the Salt.
 
 ### Day 72: 06/12/2022
 Secret Diary 2.0
+
+### Day 73: 07/12/2022
+HTML Crash Course.

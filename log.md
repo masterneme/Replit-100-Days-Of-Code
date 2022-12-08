@@ -221,3 +221,6 @@ Secret Diary 2.0
 
 ### Day 73: 07/12/2022
 HTML Crash Course.
+
+### Day 74: 08/12/2022
+Add Some Style.

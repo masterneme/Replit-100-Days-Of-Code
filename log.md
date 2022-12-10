@@ -227,3 +227,6 @@ Add Some Style.
 
 ### Day 75: 09/12/2022
 Link tree.
+
+### Day 76: 10/12/2022
+Flask.

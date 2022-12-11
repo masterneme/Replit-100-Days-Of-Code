@@ -230,3 +230,6 @@ Link tree.
 
 ### Day 76: 10/12/2022
 Flask.
+
+### Day 77: 11/12/2022
+Slim Down.

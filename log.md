@@ -233,3 +233,6 @@ Flask.
 
 ### Day 77: 11/12/2022
 Slim Down.
+
+### Day 78: 12/12/2022
+Reflections.

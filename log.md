@@ -236,3 +236,6 @@ Slim Down.
 
 ### Day 78: 12/12/2022
 Reflections.
+
+### Day 79: 13/12/2022
+Yakkety Yak!

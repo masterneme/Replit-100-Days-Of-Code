@@ -242,3 +242,6 @@ Yakkety Yak!
 
 ### Day 80: 14/12/2022
 Incoming!
+
+### Day 81: 15/12/2022
+I'm Not a Robot.

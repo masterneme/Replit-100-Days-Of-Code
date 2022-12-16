@@ -245,3 +245,6 @@ Incoming!
 
 ### Day 81: 15/12/2022
 I'm Not a Robot.
+
+### Day 82: 16/12/2022
+Don't Stop 'til You Get.

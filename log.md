@@ -251,3 +251,6 @@ Don't Stop 'til You Get.
 
 ### Day 83: 17/12/2022
 Custom Themes.
+
+### Day 84: 18/12/2022
+Client Server Logins.

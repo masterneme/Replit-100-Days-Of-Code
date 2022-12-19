@@ -254,3 +254,6 @@ Custom Themes.
 
 ### Day 84: 18/12/2022
 Client Server Logins.
+
+### Day 85: 19/12/2022
+Don't Be Stateless.

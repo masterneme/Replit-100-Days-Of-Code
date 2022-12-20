@@ -257,3 +257,6 @@ Client Server Logins.
 
 ### Day 85: 19/12/2022
 Don't Be Stateless.
+
+### Day 86: 20/12/2022
+Blog Time.

@@ -260,3 +260,6 @@ Don't Be Stateless.
 
 ### Day 86: 20/12/2022
 Blog Time.
+
+### Day 87: 21/12/2022
+Authenticate.

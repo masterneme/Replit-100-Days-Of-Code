@@ -263,3 +263,6 @@ Blog Time.
 
 ### Day 87: 21/12/2022
 Authenticate.
+
+### Day 88: 22/12/2022
+Authenticate Finesse.

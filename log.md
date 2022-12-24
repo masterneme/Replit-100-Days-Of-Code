@@ -269,3 +269,6 @@ Authenticate Finesse.
 
 ### Day 89: 23/12/2022
 Community Chat App.
+
+### Day 90: 24/12/2022
+Jason? JSON?

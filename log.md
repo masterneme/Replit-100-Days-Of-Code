@@ -275,3 +275,6 @@ Jason? JSON?
 
 ### Day 91: 25/12/2022
 The Joke's on You!
+
+### Day 92: 26/12/2022
+What's the Weather?

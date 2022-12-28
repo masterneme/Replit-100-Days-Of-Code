@@ -281,3 +281,6 @@ What's the Weather?
 
 ### Day 93: 27/12/2022
 What's Your Top Ten?
+
+### Day 94: 28/12/2022
+API Mashup.

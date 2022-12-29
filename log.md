@@ -284,3 +284,6 @@ What's Your Top Ten?
 
 ### Day 94: 28/12/2022
 API Mashup.
+
+### Day 95: 29/12/2022
+Daily Track Generator.

@@ -287,3 +287,6 @@ API Mashup.
 
 ### Day 95: 29/12/2022
 Daily Track Generator.
+
+### Day 96: 30/12/2022
+Let's Get Scraping.

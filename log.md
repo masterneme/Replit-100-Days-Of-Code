@@ -290,3 +290,6 @@ Daily Track Generator.
 
 ### Day 96: 30/12/2022
 Let's Get Scraping.
+
+### Day 97: 31/12/2022
+Summarize Anything!

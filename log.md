@@ -293,3 +293,6 @@ Let's Get Scraping.
 
 ### Day 97: 31/12/2022
 Summarize Anything!
+
+### Day 98: 01/01/2023
+Automate! Automate!

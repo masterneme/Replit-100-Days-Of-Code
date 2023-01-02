@@ -296,3 +296,6 @@ Summarize Anything!
 
 ### Day 98: 01/01/2023
 Automate! Automate!
+
+### Day 99: 02/01/2023
+Scrape the Community Hub.

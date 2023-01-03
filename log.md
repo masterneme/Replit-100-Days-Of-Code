@@ -299,3 +299,6 @@ Automate! Automate!
 
 ### Day 99: 02/01/2023
 Scrape the Community Hub.
+
+### Day 100: 03/01/2023
+Product Price Scraper.
